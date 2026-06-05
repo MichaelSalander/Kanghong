@@ -1,0 +1,10 @@
+# 只保留網站相關檔案，其他不上傳 GitHub
+*.docx
+*.pdf
+*.py
+*.xml
+*.txt
+doc_content.xml
+doc_text.txt
+generate_doc.py
+export_pdf.py
